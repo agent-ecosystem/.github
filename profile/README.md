@@ -27,6 +27,7 @@ an automation level, and a severity.
 | [agentminutes](https://agentminutes.dev) | Parses those harnesses' native session logs into one unified, comparable event schema |
 | [skillxp](https://skillxp.dev) | Stages a skill on a real harness and reports what actually reached the model, with transcript evidence instead of model self-reporting |
 | [agent-traffic-classifier](https://github.com/agent-ecosystem/agent-traffic-classifier) | Classifies server log traffic into twelve categories, from coding agents and AI crawlers to vulnerability scanners |
+| [topicsleuth](https://github.com/agent-ecosystem/topicsleuth) | Detects and tracks topic activity from a stream of documents. |
 
 ## Benchmarks and reports
 
